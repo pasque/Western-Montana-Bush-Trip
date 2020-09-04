@@ -16,3 +16,15 @@ Take off, fly south-east over the town of Troy and following the Kootenai River 
 +-------------------------+----------+------+
 | 029 - Eureka            | 6.00NM   | ???? |
 +-------------------------+----------+------+
+
+Leg 2: Eureka (88M) to Whitefish (58S)
+
+Leg 3: Whitefish (58S) to Langton (Private)
+
+Leg 4: Langton (Private) to Ryan Field (Private)
+Scenic route through GNP
+
+Leg 5: Ryan Field (Private) to Schafer USFS (8U2)
+Via MF Flathead River
+
+Leg 6: Schafer USFS (8U2) to Spotted Bear USFS (8U4)
