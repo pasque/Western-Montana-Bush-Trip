@@ -22,24 +22,57 @@ Leg 1: Eureka (88M) to Whitefish (58S)
 +-------------------------+----------+------+
 | Heading                 | Distance | ETE  |
 +-------------------------+----------+------+
-| 096 - Eureka, MT        | 14.00NM  | 9'00 |
+| 155 - Eureka, MT        | 5.2NM    | 0'00 |
 +-------------------------+----------+------+
-| 085 - Libby Dam         | 10.00NM  | ???? |
+| 122 - Dickey Lake       | 14.2NM   | 0'00 |
 +-------------------------+----------+------+
-| 350 - Koocanusa Bridge  | 27.00NM  | ???? |
+| 119 - Whitefish         | 27.00NM  | 0'00 |
 +-------------------------+----------+------+
-| 025 - Rexford           | 6.00NM   | ???? |
-+-------------------------+----------+------+
-| 029 - Eureka            | 6.00NM   | ???? |
-+-------------------------+----------+------+
-Leg 3: Whitefish (58S) to Langton (MT60)
 
 
+Leg 2: Whitefish (58S) to Langton (MT60)
 
-Leg 4: Langton (MT60) to Ryan Field (2MT1)
-Scenic route through GNP
 
-Leg 5: Ryan Field (Private) to Schafer USFS (8U2)
-Via MF Flathead River
++-------------------------+----------+------+
+| Heading                 | Distance | ETE  |
++-------------------------+----------+------+
+| 091 - Columbia Falls    | 5.6NM    | 0'00 |
++-------------------------+----------+------+
+| 073 - Hungry Horse      | 4.3NM    | 0'00 |
++-------------------------+----------+------+
+| 333 - Huckleberry Mtn   | 14.4NM   | 0'00 |
++-------------------------+----------+------+
+| 313 - Polebridge        | 10.4NM   | 0'00 |
++-------------------------+----------+------+
+| 303 - Langton           | 3.9NM    | 0'00 |
++-------------------------+----------+------+
+
+Leg 3: Langton (MT60) to Ryan Field (2MT1)
+Scenic route through GNP, up North Fork of the Flathead River (which serves as GNP boundary). Over both Kintla Lake and Upper Kintla Lake with Long Knife Peak on the left. Between Gardner Point and Boulder Peak over Lake Francis and Lake Janet, around the Citadel Peaks, then south to meet with the McDonald Creek all the way to the big, majestic, and beautiful McDonald Lake, landing at Ryan Field.
+
++-------------------------+----------+------+
+| Heading                 | Distance | ETE  |
++-------------------------+----------+------+
+| 348 - Kintla Lake       | 8.1NM    | 0'00 |
++-------------------------+----------+------+
+| 059 - Upper Kintla Lake | 6.1NM    | 0'00 |
++-------------------------+----------+------+
+| 083 - Gardner Point     | 2.7NM    | 0'00 |
++-------------------------+----------+------+
+| 098 - Lake Francis      | 5.4NM    | 0'00 |
++-------------------------+----------+------+
+| 071 - Citadel Peaks     | 4.1NM    | 0'00 |
++-------------------------+----------+------+
+| 166 - McDonald Creek    | 9.3NM    | 0'00 |
++-------------------------+----------+------+
+| 111 - Going to the Sun  | 6.4NM    | 0'00 |
++-------------------------+----------+------+
+| 203 - Lake McDonald     | 15.1NM   | 0'00 |
++-------------------------+----------+------+
+| 142 - Ryan Field        | 3.0NM    | 0'00 |
++-------------------------+----------+------+
+
+Leg 5: Ryan Field (2MT1) to Schafer USFS (8U2)
+After take off fly immediately north, follow MF Flathead and railroad southeast.
 
 Leg 6: Schafer USFS (8U2) to Spotted Bear USFS (8U4)
