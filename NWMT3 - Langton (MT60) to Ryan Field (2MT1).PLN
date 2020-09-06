@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Langton Airstrip (MT60) to Ryan Field (2MT1)</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5300.000</CruisingAlt>
+        <DepartureID>MT60</DepartureID>
+        <DepartureLLA>N48° 48' 48.42",W114° 21' 10.58",+003900.00</DepartureLLA>
+        <DestinationID>2MT1</DestinationID>
+        <DestinationLLA>N48° 28' 58.81",W113° 57' 38.88",+003660.00</DestinationLLA>
+        <Descr>Langton Airstrip to Ryan Field</Descr>
+        <DepartureName>Langton Airstrip</DepartureName>
+        <DestinationName>Ryan Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MT60">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 48' 48.42",W114° 21' 10.58",+003900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MT60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+         <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 51.93",W114° 20' 47.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 58' 43.11",W114° 11' 59.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 58' 24.24",W114° 7' 56.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 25.55",W114° 0' 20.79",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 49.09",W113° 54' 7.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 47' 30.57",W113° 53' 52.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 43' 51.82",W113° 45' 48.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 31' 43.99",W113° 59' 26.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="2MT1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 28' 58.81",W113° 57' 38.88",+003650.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2MT1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

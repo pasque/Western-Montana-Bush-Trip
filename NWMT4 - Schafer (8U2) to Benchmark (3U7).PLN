@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Schafer /Usfs/ (3U2) to Benchmark (3U7)</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6200.000</CruisingAlt>
+        <DepartureID>8U2</DepartureID>
+        <DepartureLLA>N48° 4' 46.42",W113° 14' 42.77",+004853.00</DepartureLLA>
+        <DestinationID>3U7</DestinationID>
+        <DestinationLLA>N47° 28' 55.52",W112° 52' 20.22",+005375.00</DestinationLLA>
+        <Descr>Schafer /Usfs/ to Benchmark</Descr>
+        <DepartureName>Schafer /Usfs/</DepartureName>
+        <DestinationName>Benchmark</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Schafer /Usfs/">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 4' 46.42",W113° 14' 42.77",+004853.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8U2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 4' 5.57",W113° 9' 54.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 2' 40.48",W113° 6' 16.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 0' 22.44",W113° 5' 9.46",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 57' 14.63",W112° 59' 1.74",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 46' 7.10",W112° 56' 17.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 42' 47.61",W113° 7' 38.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 34' 13.81",W113° 3' 9.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 33' 7.92",W113° 0' 21.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 33' 14.60",W112° 55' 43.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benchmark">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 28' 55.52",W112° 52' 20.22",+005200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3U7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

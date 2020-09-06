@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Whitefish (58S) to Langton Airstrip (MT60)</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5300.000</CruisingAlt>
+        <DepartureID>58S</DepartureID>
+        <DepartureLLA>N48° 24' 31.65",W114° 18' 8.54",+003066.00</DepartureLLA>
+        <DestinationID>MT60</DestinationID>
+        <DestinationLLA>N48° 48' 48.42",W114° 21' 10.58",+003900.00</DestinationLLA>
+        <Descr>Whitefish to Langton Airstrip</Descr>
+        <DepartureName>Whitefish</DepartureName>
+        <DestinationName>Langton Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="58S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 24' 31.65",W114° 18' 8.54",+003066.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>58S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 23' 3.49",W114° 9' 46.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 23' 16.62",W114° 3' 22.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 37' 15.17",W114° 8' 27.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 45' 55.69",W114° 17' 6.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="MT60">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 48' 48.42",W114° 21' 10.58",+003900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MT60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Eureka (88M) to Whitefish (58S)</Title>
+        <FPType>IFR</FPType>
+        <CruisingAlt>5000.000</CruisingAlt>
+        <DepartureID>88M</DepartureID>
+        <DepartureLLA>N48° 58' 6.31",W115° 4' 45.89",+002672.00</DepartureLLA>
+        <DestinationID>58S</DestinationID>
+        <DestinationLLA>N48° 24' 28.87",W114° 17' 58.47",+003066.00</DestinationLLA>
+        <Descr>88M, 58S</Descr>
+        <DepartureName>Eureka</DepartureName>
+        <DestinationName>Whitefish</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="Eureka">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 58' 6.45",W115° 4' 45.82",+002662.50</WorldPosition>
+            <ICAO>
+                <ICAOIdent>88M</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 52' 58.83",W115° 3' 11.41",+003700.00</WorldPosition>
+        </ATCWaypoint>
+         <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 42' 47.40",W114° 48' 16.57",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Whitefish">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 24' 31.65",W114° 18' 8.54",+003050.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>58S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
