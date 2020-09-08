@@ -79,7 +79,7 @@ We are headed to Schafer Meadows airstrip. It is co-located with the USFS Schafe
 | Heading                 | Distance | ETE  |
 +-------------------------+----------+------+
 
-Leg 5: Schafer USFS (8U2) to Benchmark (3U7
+Leg 5: Schafer USFS (8U2) to Benchmark (3U7)
 As you no doubt noticed after that landing, the only real option is to both land and take off to the north. So that is what we are going to do. We will take as much time flying north as needed to gain enough altitude to make a 180 and continue southeast down (really up) the Middle Fork of the Flathead River. The river will start to get small really fast. As the river turns southward within the first 3 miles, we will be passing Gable Peaks on our right at which time we will be crossing from the Great Bear Wilderness into the Bob Marshall Wilderness. Continuing south the river slowly fades but continue following the valley south. At the "Y" Clack Mountain is in front of us, and while the valley to the right looks bigger, head down the left valley southeast for about 5 miles, at which point a bigger valley will open up into the Sun River Game Preserve. Keep an eye open, you may spot some wildlife! Hug the mountains on your right, and as a river creeps towards your location a valley will appear on your right. Big bonus if you see the "unverified" guard station  at this intersection. Follow the valley to the west. Our next landmark is one that will be apparent when you get to it. The landmark is a 12 mile long cliff face made of limestone known as the "Chinese Wall." We will follow this until it ends in a "Y", go left and we will very quickly see the Sun River.
 
 +-------------------------+----------+------+
@@ -106,4 +106,14 @@ As you no doubt noticed after that landing, the only real option is to both land
 | 139 - Benchmark	      | 4.9NM    | 0'00 |
 +-------------------------+----------+------+
 
-Leg 5: Schafer USFS (8U2) to Spotted Bear USFS (8U4)
+Leg 6: Benchmark (3U7) to Meadow Creek USFS (0S1)
+
+Leg 7: Meadow Creek USFS (0S1) to Ferndale (53U)
+
+Leg 8: Ferndale (53U) to Seeley Lake (23S)
+
+Leg 9: Seeley Lake (23S) to Squaw Rock Airstrip (MT22)
+
+Leg 10: Squaw Rock Airstrip (MT22) to Ravalli Co (6S5)
+
+Leg 11: Ravalli Co (6S5) to Nine Mile Airport (MT52)
