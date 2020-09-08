@@ -22,11 +22,11 @@ Leg 1: Eureka (88M) to Whitefish (58S)
 +-------------------------+----------+------+
 | Heading                 | Distance | ETE  |
 +-------------------------+----------+------+
-| 155 - Eureka, MT        | 5.2NM    | 0'00 |
+| 155 - Eureka, MT        | 5.2NM    | 2'30 |
 +-------------------------+----------+------+
-| 122 - Dickey Lake       | 14.2NM   | 0'00 |
+| 122 - Dickey Lake       | 14.2NM   | 5'00 |
 +-------------------------+----------+------+
-| 119 - Whitefish         | 27.00NM  | 0'00 |
+| 119 - Whitefish         | 27.00NM  |12'30	|
 +-------------------------+----------+------+
 
 
@@ -72,7 +72,38 @@ Scenic route through GNP, up North Fork of the Flathead River (which serves as G
 | 142 - Ryan Field        | 3.0NM    | 0'00 |
 +-------------------------+----------+------+
 
-Leg 5: Ryan Field (2MT1) to Schafer USFS (8U2)
-After take off fly immediately north, follow MF Flathead and railroad southeast.
+Leg 4: Ryan Field (2MT1) to Schafer USFS (8U2)
+We are headed to Schafer Meadows airstrip. It is co-located with the USFS Schafer Ranger Station in the Great Bear Wilderness, more than 30 miles from any road and without electricity. After take off fly immediately north where you will very quickly see a river, a road, and railroad tracks headed into the mountains to the east at first, but primarily to the south for this trip. The highway is US Hwy 2 and the railway is used heavily by BNSF along one of the most difficult railway passes in the country, Maria's Pass. We will leave the railway before Maria's Pass but are headed to some truly spectacular terrain. The river you we are following is the Middle Fork of the Flathead River. Plan on landing to the north.
 
-Leg 6: Schafer USFS (8U2) to Spotted Bear USFS (8U4)
++-------------------------+----------+------+
+| Heading                 | Distance | ETE  |
++-------------------------+----------+------+
+
+Leg 5: Schafer USFS (8U2) to Benchmark (3U7
+As you no doubt noticed after that landing, the only real option is to both land and take off to the north. So that is what we are going to do. We will take as much time flying north as needed to gain enough altitude to make a 180 and continue southeast down (really up) the Middle Fork of the Flathead River. The river will start to get small really fast. As the river turns southward within the first 3 miles, we will be passing Gable Peaks on our right at which time we will be crossing from the Great Bear Wilderness into the Bob Marshall Wilderness. Continuing south the river slowly fades but continue following the valley south. At the "Y" Clack Mountain is in front of us, and while the valley to the right looks bigger, head down the left valley southeast for about 5 miles, at which point a bigger valley will open up into the Sun River Game Preserve. Keep an eye open, you may spot some wildlife! Hug the mountains on your right, and as a river creeps towards your location a valley will appear on your right. Big bonus if you see the "unverified" guard station  at this intersection. Follow the valley to the west. Our next landmark is one that will be apparent when you get to it. The landmark is a 12 mile long cliff face made of limestone known as the "Chinese Wall." We will follow this until it ends in a "Y", go left and we will very quickly see the Sun River.
+
++-------------------------+----------+------+
+| Heading                 | Distance | ETE  |
++-------------------------+----------+------+
+| 089 - The "Bob"	      | 3.3NM    | 0'00 |
++-------------------------+----------+------+
+| 107 - Ringer Mountain	  | 2.8NM    | 0'00 |
++-------------------------+----------+------+
+| 149 - Clack Mountain    | 2.4NM    | 0'00 |
++-------------------------+----------+------+
+| 114 - Sun River Preserve| 5.2NM    | 0'00 |
++-------------------------+----------+------+
+| 158 - Citadel Peaks     | 11.3NM   | 0'00 |
++-------------------------+----------+------+
+| 233 - Chinese Wall      | 8.3NM    | 0'00 |
++-------------------------+----------+------+
+| 148 - Sun River		  | 9.1NM    | 0'00 |
++-------------------------+----------+------+
+| 107 - Deadman Hill      | 2.2NM    | 0'00 |
++-------------------------+----------+------+
+| 075 - Leaving the "Bob" | 3.1NM    | 0'00 |
++-------------------------+----------+------+
+| 139 - Benchmark	      | 4.9NM    | 0'00 |
++-------------------------+----------+------+
+
+Leg 5: Schafer USFS (8U2) to Spotted Bear USFS (8U4)
