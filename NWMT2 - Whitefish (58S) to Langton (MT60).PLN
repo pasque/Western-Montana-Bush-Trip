@@ -3,9 +3,9 @@
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
     <FlightPlan.FlightPlan>
-        <Title>Whitefish to Langton Airstrip</Title>
+        <Title>Whitefish (58S) to Langton Airstrip (MT60)</Title>
         <FPType>VFR</FPType>
-        <CruisingAlt>5300.000</CruisingAlt>
+        <CruisingAlt>6000.000</CruisingAlt>
         <DepartureID>58S</DepartureID>
         <DepartureLLA>N48° 24' 31.65",W114° 18' 8.54",+003066.00</DepartureLLA>
         <DestinationID>MT60</DestinationID>
