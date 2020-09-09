@@ -1,4 +1,4 @@
-# NW-Montana-Bush-Trip
+# Western-Montana-Bush-Trip
  Montana, known as "Big Sky Country" and "The Treasure State", has plenty of beautiful places to explore via air. Western Montana has numerous mountain lakes and rivers to explore, with wilderness areas that are beautiful, and the stunning Glacier National Park. This trip will take us from the northwestern border with Canada, on a tour through Glacier, south down some big and beautiful wilderness areas, and then circling back up north along many rivers and valleys ending relatively close to where we started.
 
 Optional Intro Leg: Troy (57S) to Eureka (88M)
